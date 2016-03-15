@@ -1,6 +1,4 @@
 external
-src/intro.js
-src/outro.js
 test/data/jquery-1.9.1.js
 test/data/badcall.js
 test/data/badjson.js
@@ -9,3 +7,4 @@ test/data/readywaitasset.js
 test/data/readywaitloader.js
 test/data/support/csp.js
 test/data/support/getComputedSupport.js
+test/node_smoke_tests/lib/ensure_iterability.js
